@@ -1,0 +1,15 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 12 Jun 2024 18:44:36 at https://dappersa.co.za/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://dappersa.co.za/ -O1 "C:\My Web Sites\Dapper" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+18:47:50	Error: 	"Not Found" (404) at link https://dappersa.co.za/"assets/img/slider/image1.png" (from https://dappersa.co.za/)
+18:47:50	Error: 	"Not Found" (404) at link https://dappersa.co.za/"assets/img/slider/image2.png" (from https://dappersa.co.za/)
+18:47:50	Error: 	"Not Found" (404) at link https://dappersa.co.za/"assets/img/slider/image3.png" (from https://dappersa.co.za/)
+18:48:15	Error: 	"Not Found" (404) at link https://dappersa.co.za/"assets/img/slider/redDrapper_crop.jpg" (from https://dappersa.co.za/shop.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 39 seconds : 165 links scanned, 160 files written (19835043 bytes overall) [17408874 bytes received at 79492 bytes/sec], 3470956 bytes transferred using HTTP compression in 56 files, ratio 28%, 5.8 requests per connection
+(4 errors, 0 warnings, 0 messages)
